@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cinema</string>
+    <string name="string_movies">Films</string>
+    <string name="string_favorites">Favorieten</string>
+    <string name="string_now_playing">Nu gespeeld</string>
+    <string name="string_upcoming">Binnenkort</string>
+</resources>

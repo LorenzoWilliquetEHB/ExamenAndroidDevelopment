@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/options_nu_gespeeld"
+        android:title="@string/string_now_playing"/>
+    <item
+        android:id="@+id/options_binnenkort"
+        android:title="@string/string_upcoming"/>
+</menu>

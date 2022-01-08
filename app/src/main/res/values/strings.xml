@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cinema</string>
+    <string name="string_movies">Movies</string>
+    <string name="string_favorites">Favorites</string>
+    <string name="string_now_playing">Now playing</string>
+    <string name="string_upcoming">Upcoming</string>
+</resources>
